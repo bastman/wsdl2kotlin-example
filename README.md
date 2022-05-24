@@ -1,0 +1,1 @@
+# wsdl2kotlin-example
